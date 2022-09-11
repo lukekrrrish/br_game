@@ -1,5 +1,6 @@
 from mains import *
 
+shots = 3
 
 def start():
     global o_f
